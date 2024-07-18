@@ -23,7 +23,7 @@ Required PCAL9535A Arduino [library](https://github.com/chrissbarr/PCAL9535A-Ard
 
 This sketch should turn on relays sequentially with a 1-second delay between each, and then turn off all relays simultaneously with a 5-second delay to observe the state.
 
-##CIS
+## CIS
 
 Понадобится PCAL9535A Arduino [библиотека](https://github.com/chrissbarr/PCAL9535A-Arduino-Library/tree/master) для платы XL9535
 
