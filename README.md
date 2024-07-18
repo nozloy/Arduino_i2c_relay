@@ -1,4 +1,6 @@
 # Arduino_i2c_relay
+![XL9535 plate](https://github.com/nozloy/Arduino_i2c_relay/blob/b56cb617c20fccbfad817c98cdc4285ad39c2d1a/relay.jpg)
+
 Test-scetch for Arduino IDE for testing relay plates based on PCA9535
 
 Required PCAL9535A Arduino [library](https://github.com/chrissbarr/PCAL9535A-Arduino-Library/tree/master) for XL9535 plate
